@@ -1,0 +1,6 @@
+This public folder is source code for the front-end client side, javascript, CSS framework components 
+(like react), or any other source code that controls the front end (other API's).
+
+
+Files in src are processed (e.g., compiled or bundled) before being passed to the browser. The TypeScript/JavaScript logic is here and Webpack or Vite bundle these files for deployment. (this just means these are prepared here
+before being sent to the public folder)

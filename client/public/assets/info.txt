@@ -1,0 +1,9 @@
+This public folder is considered for static elements, like images, fonts, etc
+
+
+These files remain static unless you redeploy or update the project files at runtime (like exiting
+and entering a webpage again)
+
+or 
+
+They are modified by JavaScript in the browser (like dynamically adding posts)
