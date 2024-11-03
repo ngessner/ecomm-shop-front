@@ -1,11 +1,13 @@
-# **BLOG WEBSITE**
+# **ECOMM WEBSITE**
 
 ### README:
 - Author: Nathan Gessner
-- Last Updated: 10/27/24
+- Last Updated: 11/3/24
 
-• A blog website with the ability to create, delete, and view posts, all dynamically
+• An Ecomm website with the ability to create, delete, and view posts, all dynamically
 expanding for user experience.
+
+• Includes full backend CRUD functionality. 
 
 ### CONTACT:
 
@@ -23,4 +25,4 @@ Before cloning, download the latest version of the project on git.
 
 ### NOTICE: 
 
-• This was a project for professor zachary moore
+• This was a project for practicing full-stack web development
