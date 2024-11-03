@@ -20,7 +20,7 @@ expanding for user experience.
 
 Before cloning, download the latest version of the project on git. 
 
-• git clone: https://github.com/ngessner/CPP-Snake-Game-ng.git
+• git clone: https://github.com/ngessner/ecomm-shop-front
 
 
 ### NOTICE: 
